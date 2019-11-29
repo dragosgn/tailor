@@ -34,6 +34,7 @@
   "author": "Andrey Kuzmin",
   "license": "MIT",
   "dependencies": {
+    "nodemon": "^2.0.1",
     "opentracing": "^0.14.3",
     "parse5": "^3.0.3",
     "util.promisify": "^1.0.0"
@@ -41,7 +42,8 @@
   "devDependencies": {
     "codecov": "^2.2.0",
     "eslint": "^4.0.0",
-    "eslint-plugin-prettier": "^2.2.0",
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-plugin-prettier": "^2.7.0",
     "iamdee": "^0.4.0",
     "istanbul": "^0.4.1",
     "lazypipe": "^1.0.1",
